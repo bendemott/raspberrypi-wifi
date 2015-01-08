@@ -2,8 +2,12 @@
 Raspberry PI Access Point Setup and Configuration
 =================================================
 
+.. image:: http://i.imgur.com/PmZLggL.png
+   :scale: 50
+   :alt: captive-portal-page
+
 If you follow the steps in this document, and read carefully, the end result will be a fully
-functioning highyl customizable raspberry-pi access point that you can use for a myriad of
+functioning highly customizable raspberry-pi access point that you can use for a myriad of
 entertaining and useful tasks.  
 
 If you've ever wanted to see what a computer was doing while
